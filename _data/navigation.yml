@@ -11,8 +11,6 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
     - title: "Portfolio"
       section: portfolio
     - title: "About"
@@ -21,8 +19,6 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Team"
       section: team
-    - title: "Contact"
-      section: contact
     - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
@@ -38,8 +34,6 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Servicios"
-      section: servicios
     - title: "Portafolio"
       section: portafolio
     - title: "Sobre Nosotros"
@@ -48,8 +42,6 @@ es: &DEFAULT_ES
       section: cronologia
     - title: "Equipo"
       section: equipo
-    - title: "Contáctenos"
-      section: contacto
     - title: "Fuente de la plantilla"
       url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
