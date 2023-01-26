@@ -21,7 +21,7 @@ title      : "2252's Website"
 email      : cimatec2252@gmail.com #this is also the email contact forms will go to
 description: "CIMATEC's very own robotics teams!"
 author     : Arnaldo y Armando
-# logo:     #optional, defaults to site title
+logo:     assets/img/sicon.webp #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
