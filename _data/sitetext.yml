@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Welcome to 2252's Website!
     text: It's Nice To Meet You
-    button: Get to Know Us
+    button: Tell Me More
     buttonlink: "#services"
 
   services:
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "CIMATEC'S 2252 Robotics Program was created to adapt our creative ability to STEM related activities. Robotics have helped humanity in lots of ways, with this Program in a School Specialized in Science Math and Technology we want to apply VEX robotics to the real world problems."
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
   clients:
